@@ -6,6 +6,7 @@ langchain
 langchain-openai
 langchain-core
 langchain-community
+langchain-huggingface
 openai
 
 # Text Processing and NLP
@@ -85,3 +86,6 @@ langchain_text_splitters
 
 # vectordb
 chromadb
+
+# Embeddings
+sentence-transformers
