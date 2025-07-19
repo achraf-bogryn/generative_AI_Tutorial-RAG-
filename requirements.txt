@@ -1,0 +1,87 @@
+# Core Framework
+streamlit
+
+# LangChain and AI Dependencies
+langchain
+langchain-openai
+langchain-core
+langchain-community
+openai
+
+# Text Processing and NLP
+tiktoken
+transformers
+sentence-transformers
+
+# Data Handling
+pandas
+numpy
+python-docx
+PyPDF2
+pdfplumber
+
+# Web Scraping
+requests
+beautifulsoup4
+
+# Document Generation
+reportlab
+markdown
+
+# Utility Libraries
+python-dotenv
+pillow
+plotly
+altair
+
+# Authentication and Security
+streamlit-authenticator
+
+# File Handling
+openpyxl
+xlsxwriter
+
+# Date and Time
+python-dateutil
+
+# HTTP and API
+httpx
+aiohttp
+
+# Configuration
+pydantic
+pydantic-settings
+
+# Logging
+loguru
+
+# Testing (optional)
+pytest
+
+# Development Tools (optional)
+black
+flake8
+mypy
+
+# Vector Databases (for advanced features)
+chromadb
+faiss-cpu
+
+# Additional AI Models
+huggingface-hub
+
+# Environment Management
+python-decouple
+
+# read document
+pypdf
+bs4
+Arxiv
+pymupdf
+wikipedia
+
+# split text
+langchain_text_splitters
+
+# vectordb
+chromadb
