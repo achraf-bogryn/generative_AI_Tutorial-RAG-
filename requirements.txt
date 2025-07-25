@@ -89,3 +89,6 @@ chromadb
 
 # Embeddings
 sentence-transformers
+
+# vectordb
+faiss-cpu
