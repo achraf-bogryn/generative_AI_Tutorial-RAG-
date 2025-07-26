@@ -84,11 +84,10 @@ wikipedia
 # split text
 langchain_text_splitters
 
-# vectordb
-chromadb
-
 # Embeddings
 sentence-transformers
 
 # vectordb
 faiss-cpu
+chromadb
+langchain_chroma
